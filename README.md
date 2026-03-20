@@ -99,3 +99,6 @@ ai-nutritionist/
 ```
 ## Preview
 <img width="945" height="582" alt="image" src="https://github.com/user-attachments/assets/6f791fc0-65fd-4d7b-8d32-4ccfd74c3893" />
+
+## Live Demo
+https://ai-nutritionist-s50i.onrender.com/
